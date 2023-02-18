@@ -21,3 +21,9 @@ npm devDependencies are packages required for development only
 - `cd` the project directory
 - `npm i` to install *dependencies* (node_modules) and *devDependencies* from `package.json`
 - `npm start` to start the application
+- `npm install -g @angular/cli` to install Angular CLI
+- `ng new my-app --prefix pm` to create a new Angular application with prefix `pm`
+
+> `--prefix` is the prefix for the generated selectors. The default prefix is `app`. The prefix is used to generate the selectors for the components, directives, and pipes.
+
+## Angular CLI
