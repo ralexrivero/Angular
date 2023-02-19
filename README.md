@@ -14,10 +14,13 @@
 [![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
 
 [![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=339933&labelColor=F5F5F5)](https://nodejs.org/en/)<!-- Node.js -->
+[![npm](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=CB3837&labelColor=F5F5F5)](https://www.npmjs.com/)<!-- npm -->
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=3178C6&labelColor=2F333A)](https://www.typescriptlang.org/)<!-- TS -->
 [![Angular](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=AngularJS&logoColor=E23237&labelColor=F5F5F5)](https://angularjs.org/)<!-- Angular.js -->
 
-- `npm`
+[![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
+[![Font Awesome](https://img.shields.io/static/v1?label=&message=Font%20Awesome&color=528DD7&logo=Font%20Awesome&logoColor=528DD7&labelColor=F5F5F5)](https://fontawesome.com/)<!-- Font Awesome -->
+
 - `Angular CLI`
 
 ## Wiki Pages
