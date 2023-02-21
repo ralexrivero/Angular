@@ -34,6 +34,11 @@
 
 ## Getting Started
 
+You can either use the [Dockerfile](./Dockerfile) to build the image or pull the image from `Docker Hub`.
+
+- `docker pull ralexrivero/node-alp-18:1.0` to pull the image
+- `docker build -t angular/node_18/alpine -f Dockerfile .` to build the image
+
 - `git clone` the project
 - `cd` to the project directory
 - `docker run -d -it --rm --name node -v /path/to/code/:/code --network=host node-alp-18:1.0` to start a container with `node.js`
