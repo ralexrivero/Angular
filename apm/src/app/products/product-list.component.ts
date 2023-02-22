@@ -1,4 +1,4 @@
-import { Component, OnInit} from "@angular/core";
+import { Component, Input, OnInit} from "@angular/core";
 import { IProduct } from "./products";
 
 @Component({
@@ -68,6 +68,6 @@ export class ProductListComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    console.log('In OnInit');
+    this.listFilter = '';
   }
 }
